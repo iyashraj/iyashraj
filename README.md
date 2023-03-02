@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyashraj&label=Profile%20views&color=0e75b6&style=flat" alt="iyashraj" /> </p>
 
-- 🔭 I’m currently working on **React-api projects**
-- 🌱 I’m currently learning **ReactJs & NextJs**
+- 🔭 I’m currently working on **MERN projects**
+- 🌱 I’m currently learning **ReactJs & NodeJs**
 - 💬 Ask me about **ReactJs, MERN**
 - 📫 How to reach me **yashr3037@gmail.com**
 - ⚡ Fun fact **I am funny.**
