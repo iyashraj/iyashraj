@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **ReactJs & NodeJs**
 - 💬 Ask me about **ReactJs, MERN**
 - 📫 How to reach me **yashr3037@gmail.com**
-- ⚡ Fun fact **I am funny.**
+- ⚡ Fun fact: **I have a black belt in "Ctrl+C" and "Ctrl+V," mastering the ancient art of copy-pasting. 🥋💻**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-raj-06710020a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-raj-06710020a" height="30" width="40" /></a>
