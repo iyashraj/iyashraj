@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyashraj&label=Profile%20views&color=0e75b6&style=flat" alt="iyashraj" /> </p>
 
-- 🔭 I’m currently working on **MERN projects**
-- 🌱 I’m currently learning **ReactJs & NodeJs**
-- 💬 Ask me about **ReactJs, MERN**
+- 🔭 I’m experienced **Front-end Developer**
+- 🌱 Embarking on mastering **full-stack development**. 🚀💻
+- 💬 Ask me about **ReactJs, Typescript, JavaScript**
 - 📫 How to reach me **yashr3037@gmail.com**
 - ⚡ Fun fact: **I have a black belt in "Ctrl+C" and "Ctrl+V," mastering the ancient art of copy-pasting. 🥋💻**
 <h3 align="left">Connect with me:</h3>
